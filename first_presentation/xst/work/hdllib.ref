@@ -1,0 +1,10 @@
+AR nreg behavioral /home/ekorletey/first_presentation/N.vhd sub00/vhpl07 1666681908
+EN example1 NULL /home/ekorletey/first_presentation/Example1.vhd sub00/vhpl04 1666681911
+EN addition NULL /home/ekorletey/first_presentation/addition.vhd sub00/vhpl08 1666681909
+EN nreg NULL /home/ekorletey/first_presentation/N.vhd sub00/vhpl06 1666681907
+EN sum NULL /home/ekorletey/first_presentation/sum.vhd sub00/vhpl00 1666681905
+EN n NULL /home/ekorletey/first_presentation/N.vhd sub00/vhpl02 1666675419
+AR example1 behavioral /home/ekorletey/first_presentation/Example1.vhd sub00/vhpl05 1666681912
+AR addition behavioral /home/ekorletey/first_presentation/addition.vhd sub00/vhpl09 1666681910
+AR n behavioral /home/ekorletey/first_presentation/N.vhd sub00/vhpl03 1666675420
+AR sum behavioral /home/ekorletey/first_presentation/sum.vhd sub00/vhpl01 1666681906
